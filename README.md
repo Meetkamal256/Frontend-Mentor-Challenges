@@ -1,0 +1,1 @@
+![Single price grid component2](https://github.com/Meetkamal256/Frontend-Mentor-Challenges/assets/104779844/e2434915-1d9b-4dab-aab3-d44ca2e83da9)
